@@ -1,0 +1,52 @@
+.menu1 {
+    display: flex;
+    justify-content:space-around;
+    background-color:grey;
+    border:outset gold;
+    margin:1px;
+    padding:15px;
+}
+
+.item1 {
+    padding:11px;
+    margin:10px;
+    border:double darkgreen;
+    background-color:lightblue;
+}
+
+
+.menu2{
+    display:flex;
+    justify-content:flex-end;
+    background-color:azure;
+    border: dashed #f7022a;
+   padding:15px;
+    margin:1px;
+}
+
+
+.item2{
+    padding:10px;
+        margin: 10px;
+        border:inset #800020;
+        background-color:orange;
+    justify-content:space-around;
+}
+
+
+.menu3{
+    display:flex;
+    justify-content:space-between;
+    background-color:#FFDAB9;
+    border:dotted #89CFF0;
+    padding:15px;
+    margin:1px;
+}
+
+
+.item3{
+    padding:10px;
+        margin:10px;
+        border:outset #005f69;
+        background-color:#FFFFF0;
+}
